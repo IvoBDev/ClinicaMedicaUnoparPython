@@ -107,19 +107,6 @@ Atualmente os pacientes são armazenados em uma **lista na memória** durante a 
 
 Isso significa que, ao fechar o sistema, os pacientes cadastrados não ficam salvos permanentemente.
 
-##  Possíveis melhorias futuras
-
-Algumas funcionalidades que podem ser implementadas futuramente:
-
-* [ ] Salvar pacientes em arquivo
-* [ ] Implementar banco de dados
-* [ ] Permitir editar pacientes cadastrados
-* [ ] Permitir excluir pacientes
-* [ ] Adicionar identificação única para cada paciente
-* [ ] Melhorar a organização do código em módulos
-* [ ] Criar uma interface gráfica
-* [ ] Criar testes automatizados
-* [ ] Implementar persistência dos dados
 
 ##  Autor
 
