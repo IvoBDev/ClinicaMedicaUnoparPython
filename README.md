@@ -48,7 +48,7 @@ Não é necessária a instalação de bibliotecas externas.
 ### 1. Clone o repositório
 
 ```bash
-git clone https://github.com/IvoBDev/ClinicaMedicalInoparPython.git
+git clone https://github.com/IvoBDev/ClinicaMedicaUnoparPython
 ```
 
 ### 2. Entre na pasta do projeto
